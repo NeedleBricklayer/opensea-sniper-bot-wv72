@@ -1,4 +1,4 @@
-# 
+# NFT-optimized opensea sniper bot | flip-strategies + liquidity-analysis is the best opensea sniper bot, featuring flip-strategies and liquidity-analysis. Fast, smart, and
 
 
 
